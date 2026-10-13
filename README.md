@@ -12,37 +12,6 @@ Currently sharpening my backend engineering skills and exploring AI-powered appl
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,tailwind,postgres,mongodb,prisma,redis,docker,git,github,vite,supabase,postman,python,go" />
 </p>
 
-## 🚀 Featured Projects
-
-### [Document Verification API](https://github.com/SolomonSaidu/Document-verification-api)
-An API-first document verification system that extracts and validates information from uploaded documents using AI.
-
-**Stack:** Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, Gemini API, Supabase
-
-### MailForge
-A backend project for email delivery infrastructure, featuring API-key authentication, JWT-based dashboard authentication, and rate limiting.
-
-**Stack:** Node.js, Express, PostgreSQL, Prisma, Redis
-
-### Invoix
-An offline-first invoicing application designed to help small businesses create and manage invoices.
-
-**Stack:** React, JavaScript, Tailwind CSS, Zustand, Dexie, Vite, PWA
-
-### VTU API
-A virtual top-up backend project with authentication, airtime and data purchases, transaction history, automated purchases, and payment integration.
-
-**Stack:** Node.js, Express, PostgreSQL, Prisma, Redis, BullMQ, Paystack
-
-## 🧠 Currently Learning
-
-- TypeScript and stronger JavaScript fundamentals
-- Backend architecture and API design
-- Automated testing and test-driven development
-- Redis, queues, and asynchronous processing
-- Docker and deployment workflows
-- AI integrations and agent-based applications
-
 ## 📊 GitHub Stats
 
 <p align="left">
