@@ -1,4 +1,4 @@
-# Hey, I'm Solomon 👋
+# Hey, I'm Solomon TheDev 👋
 
 **Backend Developer | JavaScript • Node.js • PostgreSQL**
 
@@ -9,7 +9,7 @@ Currently sharpening my backend engineering skills and exploring AI-powered appl
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,tailwind,postgres,mongodb,prisma,redis,docker,git,github,vite,supabase,postman,python,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,tailwind,postgres,mongodb,prisma,redis,docker,git,github,vite,supabase,postman" />
 </p>
 
 ## 📊 GitHub Stats
