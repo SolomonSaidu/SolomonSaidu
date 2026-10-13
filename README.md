@@ -4,7 +4,7 @@
 
 I build backend systems, REST APIs, and practical web applications. I'm focused on understanding how things work under the hood, writing maintainable code, and building projects that solve real problems.
 
-Currently sharpening my backend engineering skills and exploring AI-powered applications.
+
 
 ## 🛠️ Languages & Tools
 
